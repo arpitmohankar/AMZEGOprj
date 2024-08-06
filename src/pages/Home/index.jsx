@@ -1,6 +1,6 @@
 import React,{useState,useCallback} from "react";
 import { useNavigate } from "react-router-dom";
-import textboxbut from "./textboxbut.css";
+//import textboxbut from "./textboxbut.css";
 import logo from './forze3.png';
 
 
